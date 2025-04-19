@@ -116,9 +116,9 @@ function App() {
         'Won 3 daily prizes and secured Second Runner-up overall at Infodesk.',
     },
     {
-      title: 'Hackathon Winner: Student Hacks',
+      title: 'Hackathon Winner: Eclipse Hacks',
       date: 'Oct 2024',
-      description: 'Won for developing Sahayta AI on Devpost.',
+      description: 'Won 2nd Place for developing Sahayta AI on Devpost.',
     },
     {
       title: 'GirlScript Summer of Code 2024',
