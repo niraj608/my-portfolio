@@ -142,8 +142,7 @@ function App() {
     phone: '+91 873-292-7543',
     leetcode: 'https://leetcode.com/u/Niraj1608/',
     resume:
-      'https://drive.google.com/file/d/1FbtH7TP4TyVut0GpEN2kxyzCl9WqHrRQ/view?usp=sharing
-      ', //
+      'https://drive.google.com/file/d/1FbtH7TP4TyVut0GpEN2kxyzCl9WqHrRQ/view?usp=sharing', //
   };
 
   const navLinks = [
